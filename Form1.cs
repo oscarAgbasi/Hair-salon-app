@@ -1,9 +1,7 @@
 ﻿/**
- * Agbasi Oscar, 000333302
- * 12th oct, 2018
- * Program purpose : used Gui to make GUi
- * Statement of Authorship :I, Agbasi Oscasr, 000333302 certify that this material is my original work. 
- * No other person's work has been used without due acknowledgement.
+ * Agbasi Oscar, 
+ 
+
  * */
 
 
